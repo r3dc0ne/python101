@@ -1,0 +1,15 @@
+- Alles so wie in matrix 2
+- Anzahl an randoms muss von user definiert werden
+- die Abfrage der random numbers in der inneren und äußeren Liste muss mehrfach stattfinden
+    - duch schleife innerhalb einer funktion??
+    - mit function return
+
+    - also: ich erstelle eine leere Liste
+    - dann lasse ich mir eine random number rausgeben, schaue ob diese bereits in der Liste vorhanden ist
+            - wenn nein: hinzufügen
+            - wenn ja: nicht hinzufügen, sondern Befehl wiederholen
+    - Wiederholungen müssen so lange stattfinden, bis ich die gewünschte Anzahl an random numbers in der Liste habe (=randoms)
+
+
+
+
